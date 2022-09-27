@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>32.jpeg</filename>
+	<path>/my-project-name/32.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Number plates</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>107</ymin>
+			<xmax>107</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>
